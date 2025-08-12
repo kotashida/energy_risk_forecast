@@ -1,0 +1,8 @@
+pandas==2.3.0
+statsmodels==0.14.4
+arch==7.2.0
+scikit-learn==1.6.1
+plotly==5.19.0
+streamlit==1.48.0
+requests==2.32.3
+scipy==1.10.1
